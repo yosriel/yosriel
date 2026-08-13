@@ -1,4 +1,3 @@
-<img width="1410" height="648" alt="image" src="https://github.com/user-attachments/assets/17480c12-c01d-4abe-ac13-e2b452491f7f" /><div align="center">
 
 # ¡Hola, soy Diego Falla! 👋
 
