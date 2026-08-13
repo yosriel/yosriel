@@ -84,7 +84,7 @@ Aruba · MikroTik · Ubiquiti · Cisco
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=yosriel&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Tyosriel&show_icons=true&theme=radical&hide_border=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yosriel&layout=compact&theme=radical&hide_border=true)
 
 </div>
