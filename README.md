@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy YosRiel! 👋
+# ¡Hola, soy Diego Falla! 👋
 
 **Estudiante de Ingeniería de Software · Full Stack · BI & Datos · Infraestructura**
 
@@ -14,11 +14,6 @@
 - 💼 Experiencia práctica en proyectos reales de **Business Intelligence**, **desarrollo full stack** e **infraestructura de alta disponibilidad**
 - 🧩 Perfil transversal: modelado de datos, Machine Learning, administración de servidores y redes
 - 🇵🇪 Lima, Perú
-
-### 🔭 Trabajando ahora en
-
-- 🖥️ Infraestructura HA sobre **Proxmox VE** — Docker, replicación MariaDB maestro-esclavo, monitoreo con Checkmk, exposición segura vía Tailscale
-- 📊 Proyectos de Business Intelligence e Innovación y Transformación Digital (UTP)
 
 <br>
 
@@ -108,8 +103,8 @@ Aruba · MikroTik · Ubiquiti · Cisco
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-falla-samaniego-249952309/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.falla.2004.10@gmail.com)
 
 </div>
 
