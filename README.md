@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1410" height="648" alt="image" src="https://github.com/user-attachments/assets/17480c12-c01d-4abe-ac13-e2b452491f7f" /><div align="center">
 
 # ¡Hola, soy Diego Falla! 👋
 
@@ -22,12 +22,9 @@
 **Lenguajes**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -35,15 +32,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Bases de datos**
 
@@ -53,8 +46,6 @@
 **DevOps, Cloud & Infraestructura**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -64,19 +55,13 @@
 
 Modelado dimensional (Snowflake Schema) · ETL · metodología Hefesto · KPIs/BSC
 
-**Redes**
-
-Aruba · MikroTik · Ubiquiti · Cisco
-
 <br>
 
 ### 💼 Proyectos destacados
 
-- **TicketFlow** — Plataforma fullstack de venta de entradas (Angular + TailwindCSS + Spring Boot + MySQL), con arquitectura de frontend y sistema de autenticación completo.
-- **Clasificador de Intenciones con IA — Beex (CCaaS)** — Modelo SVM + TF-IDF para atención al cliente omnicanal, **94.60% F1-score** sobre un dataset sintético de 1,500 interacciones, con análisis de cumplimiento normativo (Ley N° 29733 y Ley N° 31814).
-- **Data Mart — Mannucci Motors (Toyota)** — Modelo dimensional Snowflake Schema (MySQL + Power BI) para inventario de repuestos en el área de postventa, con metodología Hefesto.
-- **Infraestructura de Alta Disponibilidad** — Clúster sobre Proxmox VE con Docker (Passbolt, Checkmk), replicación MariaDB maestro-esclavo, monitoreo SNMP y acceso remoto vía Tailscale Tunnels.
-- **Asistente Personal (concepto)** — App en React Native con búsqueda vectorial, memoria semántica y grafo de conocimiento.
+- **TicketFlow** — Plataforma fullstack de venta de entradas (Angular + TailwindCSS + Spring Boot + MySQL), con arquitectura de frontend y sistema de autenticación completo. `React` `Java` `Spring Boot` `TypeScript` `Vite` `MySQL` `REST`
+- **E-Commerce Cineplus** — Plataforma web para gestión de cines: administración de películas, funciones, asientos, promociones, usuarios y órdenes. Incluye autenticación, panel de usuario, frontend en React y backend en Java Spring Boot. `React` `Java` `Spring Boot` `TypeScript` `Vite` `MySQL` `REST`
+- **Medidesk** — Plataforma web para gestión de citas médicas, pacientes, doctores, especialidades y horarios. Incluye autenticación, panel de usuario y experiencia interactiva para clínicas y consultorios. `React` `Django` `TypeScript` `Tailwind` `MySQL` `Django REST Framework`
 
 <br>
 
@@ -84,11 +69,10 @@ Aruba · MikroTik · Ubiquiti · Cisco
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Tyosriel&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=yosriel&show_icons=true&theme=radical&hide_border=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yosriel&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
 
 <br>
 
