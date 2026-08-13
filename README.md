@@ -84,18 +84,11 @@ Aruba · MikroTik · Ubiquiti · Cisco
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=YosRiel&show_icons=true&theme=radical&hide_border=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=YosRiel&layout=compact&theme=radical&hide_border=true)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=yosriel&show_icons=true&theme=radical&hide_border=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yosriel&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-### ⚡ Más allá del código
-
-- 🎮 Estrategia y diseño de videojuegos — fan de **Stellaris**
-- 🔧 Mecánica automotriz
-- 📡 Redes y telecomunicaciones — DS3 Comunicaciones
-- 👟 Retail e importación — BRIO STORE
-- 🏗️ Ingeniería estructural como formación complementaria (ETABS, geotecnia)
 
 <br>
 
