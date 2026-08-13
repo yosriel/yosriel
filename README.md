@@ -1,3 +1,4 @@
+<div align="center">
 
 # ¡Hola, soy Diego Falla! 👋
 
@@ -56,7 +57,7 @@
 
 ### 💼 Proyectos destacados
 
-- **TicketFlow** — Plataforma fullstack de venta de entradas (Angular + TailwindCSS + Spring Boot + MySQL), con arquitectura de frontend y sistema de autenticación completo. `React` `Java` `Spring Boot` `TypeScript` `Vite` `MySQL` `REST`
+- **TicketFlow** — Plataforma fullstack de venta de entradas, con arquitectura de frontend y sistema de autenticación completo. `Angular` `TailwindCSS` `Spring Boot` `MySQL`
 - **E-Commerce Cineplus** — Plataforma web para gestión de cines: administración de películas, funciones, asientos, promociones, usuarios y órdenes. Incluye autenticación, panel de usuario, frontend en React y backend en Java Spring Boot. `React` `Java` `Spring Boot` `TypeScript` `Vite` `MySQL` `REST`
 - **Medidesk** — Plataforma web para gestión de citas médicas, pacientes, doctores, especialidades y horarios. Incluye autenticación, panel de usuario y experiencia interactiva para clínicas y consultorios. `React` `Django` `TypeScript` `Tailwind` `MySQL` `Django REST Framework`
 
@@ -66,8 +67,9 @@
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=yosriel&show_icons=true&theme=radical&hide_border=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yosriel&layout=compact&theme=radical&hide_border=true)
+![Perfil](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyosriel&color=blue&logo=github)
+![Seguidores](https://img.shields.io/github/followers/yosriel?style=for-the-badge&logo=github&label=Seguidores&color=blue)
+![Perfil visto](https://komarev.com/ghpvc/?username=yosriel&style=for-the-badge&color=blue&label=Visitas)
 
 </div>
 
